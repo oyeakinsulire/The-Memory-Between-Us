@@ -392,14 +392,12 @@ function drawGlassLayer() {
     fill(0, i * 0.55);
     rect(0, 0, width, i);
     rect(0, height - i, width, i);
-    blur(1);
   }
 
   for (let i = 0; i < 120; i++) {
     fill(0, i * 0.35);
     rect(0, 0, i, height);
     rect(width - i, 0, i, height);
-      blur(1);
   }
 }
 
