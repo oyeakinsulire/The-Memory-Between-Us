@@ -108,15 +108,15 @@ function preload() {
   for (let i = 1; i <= 10; i++) {
     let num = nf(i, 2);
 
-    originals[i - 1] = loadImage("assets/originals/original_" + num + ".jpg");
-    MachineOutputs[i - 1] = loadImage("assets/ai_outputs/ai_" + num + ".jpg");
+    originals[i - 1] = loadImage("/assets/originals/original_" + num + ".jpg");
+    MachineOutputs[i - 1] = loadImage("/assets/ai_outputs/ai_" + num + ".jpg");
   }
 
   soundFormats("mp3");
 
-  echoesofnature = loadSound("assets/sounds/forest.mp3");
-  echoesofpast = loadSound("assets/sounds/archives.mp3");
-  footsteps = loadSound("assets/sounds/steps.mp3");
+  echoesofnature = loadSound("/assets/sounds/forest.mp3");
+  echoesofpast = loadSound("/assets/sounds/archives.mp3");
+  footsteps = loadSound("/assets/sounds/steps.mp3");
 }
 
 function setup() {
