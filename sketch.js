@@ -31,62 +31,62 @@ let titles = [
 // These are the memories that are associated with each image.
 
 let memories = [
-  {
+{
     location: "Garden Of Rainham",
-    year: "2025",
+    year: "2024",
     person: "I remember walking without have destination, only the need to be still.",
     machine: "The machine turned my stillness into a view of confusion."
   },
   {
-    location: "UNKNOWN FIELD",
-    year: "2023",
+    location: "Brick Lane",
+    year: "2024",
     person: "I remember navigating through life searching for the truth.",
     machine: "The machine detects atmosphere, shadow, and distance."
   },
   {
-    location: "Mind",
-    year: "2025",
+    location: "Brick Lane",
+    year: "2024",
     person: "I remember standing beneath trees, not seeking answers, only stillness.",
     machine: "The machine remembers a forest cathedral."
   },
   {
-    location: "A QUIET ROAD",
-    year: "2025",
+    location: "South London Gallery",
+    year: "2023",
     person: "I remember peace arriving slowly, without announcement.",
     machine: "The machine reconstructs calm as visual symmetry."
   },
   {
-    location: "SOLACE",
+    location: "Ruslip Lido",
     year: "2025",
     person: "I remember the image before it became a landscape.",
     machine: "The machine remembers texture, colour, and probability."
   },
   {
-    location: "WANDERER",
+    location: "Ruslip Lido",
     year: "2025",
     person: "I remember moving through the world as if searching for a gentler language.",
     machine: "The machine predicts a dream of becoming."
   },
   {
-    location: "ARCHIVE",
-    year: "2025",
+    location: "Lagos, Nigeria",
+    year: "2021",
     person: "I remember the frame, but not everything around it.",
     machine: "The machine fills the missing parts with hallucination."
   },
   {
-    location: "THRESHOLD",
+    location: "Ruslip Lido",
     year: "2025",
     person: "I remember standing between what I was and what I was becoming.",
     machine: "The machine sees transition as distortion."
   },
   {
-    location: "MEMORY",
+    location: "Mardyke Open Space",
     year: "2025",
     person: "I remember something sacred in the ordinary.",
     machine: "The machine returns an artificial shrine."
   },
   {
-    location: "BECOMING",
+    location: "Mardyke Open Space",
     year: "2025",
     person: "I remember that memory was never still.",
     machine: "The machine remembers movement without knowing why."
